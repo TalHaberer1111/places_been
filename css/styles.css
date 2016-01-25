@@ -1,0 +1,21 @@
+#show-places {
+  display: none;
+  font-weight: bolder;
+  font-size: 25px;
+}
+
+#places {
+  cursor: pointer;
+  color: #0088cc;
+}
+
+body {
+  background-image: url(https://lh3.googleusercontent.com/XjDcJaOM4nMw2WpMEf4h0wZIVRds4asDTdt2oqtcpDNYMnbMmyPsSwgjya9-zLR0Sw=h900);
+  background-size: cover;
+  font-size: 20px;
+  font-family: fantasy;
+}
+
+h1 {
+  color: #cccccc;
+}
